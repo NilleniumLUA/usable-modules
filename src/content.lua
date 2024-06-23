@@ -77,6 +77,8 @@ function req.setStarterSpawnLocation(SpawnCFrame: CFrame, custom: bool)
 			local new = Instance.new("SpawnLocation")
 			new.Parent = game.Workspace
 			new.CFrame = SpawnCFrame
+			new.Anchored = true
+			new.CanCollide = false
 		end
 	end
 end

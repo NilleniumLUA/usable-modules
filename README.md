@@ -10,3 +10,6 @@ Secondly, Create a Chat3 [RemoteEvent](https://create.roblox.com/docs/reference/
 
 
 And that's it. The **setStarterSpawnLocation** function works in when you have a SpawnLocation in Workspace. Reminder.
+
+
+!! OLD CODE DO NOT USE, IF NEEDED !!
